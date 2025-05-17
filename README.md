@@ -14,7 +14,7 @@
   </a>
   &nbsp;
   <a href="mailto:elvinhaxverdiyev777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ebilebilli3@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-elvinhaxverdiyev777@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
