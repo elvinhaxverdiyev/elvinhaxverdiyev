@@ -1,66 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Sənin Adın - Portfolio</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 600px;
-      margin: 50px auto;
-      padding: 0 15px;
-      color: #222;
-      background: #f7f7f7;
-    }
-    h1 {
-      text-align: center;
-      color: #007acc;
-    }
-    p {
-      line-height: 1.5;
-      margin-bottom: 1em;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .projects {
-      margin-top: 30px;
-    }
-    .project {
-      margin-bottom: 20px;
-    }
-    footer {
-      text-align: center;
-      margin-top: 50px;
-      font-size: 0.9em;
-      color: #666;
-    }
-  </style>
-</head>
-<body>
-  <h1>Sənin Adın</h1>
-  <p>Python/Django backend developer. Sadə, təmiz və işlək həllər yaratmağı sevirəm.</p>
-  
-  <div class="projects">
-    <h2>Layihələrim</h2>
-    <div class="project">
-      <strong><a href="https://github.com/senin-github-adi/layihe1" target="_blank" rel="noopener">Layihə 1</a></strong>
-      <p>Django ilə hazırlanmış sadə blog layihəsi.</p>
-    </div>
-    <div class="project">
-      <strong><a href="https://github.com/senin-github-adi/layihe2" target="_blank" rel="noopener">Layihə 2</a></strong>
-      <p>REST API ilə hazırlanmış todo tətbiqi.</p>
-    </div>
-  </div>
+<h1 align="center">👋 Hi, I'm Abil Abilli</h1>
 
-  <footer>
-    <p>© 2025 Sənin Adın</p>
-  </footer>
-</body>
-</html>
+<p align="center">
+  <b>Junior Python/Django Developer</b>
+</p>
+
+<p align="center">
+  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:ebilebilli3@gmail.com">ebilebilli3@gmail.com</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ebilebilli" target="_blank">
+    <img src="https://img.shields.io/github/followers/ebilebilli?label=GitHub&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="mailto:ebilebilli3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ebilebilli3@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 🔭 I’m currently working on Django projects and honing my Python skills  
+- 🌱 Learning REST APIs, Docker, and deploying web apps  
+- 💬 Ask me about Python, Django, or backend development  
+- 📫 How to reach me: <a href="mailto:ebilebilli3@gmail.com">ebilebilli3@gmail.com</a>
+
+---
+
+## Projects
+
+- [My Django Blog](https://github.com/ebilebilli/django-blog) — Simple blog project with Django  
+- [Todo API](https://github.com/ebilebilli/todo-api) — RESTful API with Django Rest Framework  
+
+---
+
+Thanks for stopping by! 😊  
+
 
