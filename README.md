@@ -25,7 +25,8 @@
 - 🔭 I’m currently working on Django projects and honing my Python skills  
 - 🌱 Learning REST APIs, Docker, and deploying web apps  
 - 💬 Ask me about Python, Django, or backend development  
-- 📫 How to reach me: <a href="mailto:elvinhaxverdiyev777@gmail.com">elvinhaxverdiyev777@gmail.com
+- 📫 How to reach me: <a href="mailto:elvinhaxverdiyev777@gmail.com">elvinhaxverdiyev777@gmail.com</a>
+
 ---
 
 ## Projects
@@ -35,6 +36,7 @@
 
 ---
 
-Thanks for stopping by! 😊  
+Thanks for stopping by! 😊
+
 
 
