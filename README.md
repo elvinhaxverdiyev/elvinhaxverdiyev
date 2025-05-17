@@ -29,14 +29,10 @@
 
 ---
 
-## Projects
+## Education
 
-- [My Django Blog](https://github.com/elvinhaxverdiyev/django-blog) — Simple blog project with Django  
-- [Todo API](https://github.com/elvinhaxverdiyev/todo-api) — RESTful API with Django Rest Framework  
+- 🎓 Completed Python & Django course at JetAcademy
 
 ---
 
 Thanks for stopping by! 😊
-
-
-
