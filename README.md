@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:ebilebilli3@gmail.com">elvinhaxverdiyev777@gamil.com.com</a>
+  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:elvinhaxverdiyev777@gmail.com">elvinhaxverdiyev777@gmail.com</a>
 </p>
 
 <p align="center">
