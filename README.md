@@ -31,7 +31,20 @@
 
 ## Education
 
-- 🎓 Completed Python & Django course at JetAcademy
+<div align="center">
+
+🎓 <b>JetAcademy Python & Django Bootcamp</b>  
+<em>In-depth training on Python & Django</em>  
+
+<ul style="list-style-type:square; text-align: left; max-width: 600px; margin: 0 auto;">
+  <li>Mastered Python programming fundamentals and advanced Django concepts</li>
+  <li>Designed and developed robust RESTful APIs using Django Rest Framework</li>
+  <li>Worked extensively with databases: designing schemas, migrations, and complex queries</li>
+  <li>Hands-on experience building real-world projects with strong backend architecture</li>
+  <li>Gained solid knowledge of deployment workflows and Docker containerization</li>
+</ul>
+
+</div>
 
 ---
 
