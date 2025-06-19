@@ -44,19 +44,16 @@
 
 ### 📦 Projects
 
-- [📸 Instagram Clone](https://github.com/elvinhaxverdiyev/instagram-clone)  
+- [📸 Instagram Clone](https://github.com/elvinhaxverdiyev/InstaClone)  
   Full-featured Instagram backend using Django, DRF, JWT, Redis, Celery, AWS S3.
 
-- [🛒 E-Commerce Microservices Platform](https://github.com/elvinhaxverdiyev/ecommerce-platform)  
+- [🛒 E-Commerce Microservices Platform](https://github.com/elvinhaxverdiyev/ProMart)  
   Kafka + Django-based e-commerce platform with fully separated microservices.
 
-- [📨 Notification Service](https://github.com/elvinhaxverdiyev/notification-service)  
+- [📨 Masters Web Platform](https://github.com/ebilebilli/Masters)  
   Sends multi-channel notifications (Email, Telegram, SMS) based on user preferences.
 
-- [📝 Django Blog](https://github.com/elvinhaxverdiyev/django-blog)  
-  Simple blog app built with Django + authentication system.
-
-- [✅ Todo API](https://github.com/elvinhaxverdiyev/todo-api)  
+- [✅ Movie Web Platform APIs](https://github.com/elvinhaxverdiyev/MovieAPI)  
   CRUD-based RESTful API using Django Rest Framework.
 
 ---
@@ -64,7 +61,7 @@
 ### 📫 How to Reach Me
 
 - **Email**: [elvinhaxverdiyev777@gmail.com](mailto:elvinhaxverdiyev777@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/elvinhaxverdiyev](https://www.linkedin.com/in/elvinhaxverdiyev)  
+- **LinkedIn**: [linkedin.com/in/elvinhaxverdiyev](https://www.linkedin.com/feed/)  
 - **GitHub**: [github.com/elvinhaxverdiyev](https://github.com/elvinhaxverdiyev)
 
 ---
