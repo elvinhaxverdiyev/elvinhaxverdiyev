@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Elvin Haxverdiyev | Python Backend Developer</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
       background-color: #f8f9fa;
@@ -69,5 +69,20 @@
     <div class="mb-4">
       <h4>Notification Service</h4>
       <p>Notification service with email, Telegram bot, and SMS support. Sends messages based on user preferences.</p>
-      <a href="https://github
+      <a href="https://github.com/seninprofilin/notification-service" class="btn btn-outline-primary btn-sm" target="_blank">View on GitHub</a>
+    </div>
 
+    <h2 class="section-title">📫 Contact Me</h2>
+    <ul>
+      <li><strong>Email:</strong> elvinhaxverdiyev777@gmail.com</li>
+      <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/elvinhaxverdiyev/" target="_blank">linkedin.com/in/elvinhaxverdiyev</a></li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/seninprofilin" target="_blank">github.com/seninprofilin</a></li>
+    </ul>
+
+    <footer class="text-center mt-5 mb-4 text-muted">
+      &copy; 2025 Elvin Haxverdiyev | Developer Portfolio
+    </footer>
+  </div>
+
+</body>
+</html>
