@@ -1,40 +1,73 @@
-<h1 align="center">👋 Hi, I'm Abil Abilli</h1>
 <h1 align="center">👋 Hi, I'm Elvin Haxverdiyev</h1>
 
 <p align="center">
-  <b>Junior Python/Django Developer</b>
-  <b>Python/Django Developer</b>
+  <b>Python/Django Backend Developer</b>
 </p>
 
 <p align="center">
-  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:ebilebilli3@gmail.com">ebilebilli3@gmail.com</a>
-  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:ebilebilli3@gmail.com">elvinhaxverdiyev777@gamil.com.com</a>
+  📍 Baku, Azerbaijan &nbsp;|&nbsp; 📧 <a href="mailto:elvinhaxverdiyev777@gmail.com">elvinhaxverdiyev777@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ebilebilli" target="_blank">
-    <img src="https://img.shields.io/github/followers/ebilebilli?label=GitHub&style=social" alt="GitHub Followers" />
   <a href="https://github.com/elvinhaxverdiyev" target="_blank">
     <img src="https://img.shields.io/github/followers/elvinhaxverdiyev?label=GitHub&style=social" alt="GitHub Followers" />
   </a>
   &nbsp;
-  <a href="mailto:ebilebilli3@gmail.com" target="_blank">
   <a href="mailto:elvinhaxverdiyev777@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ebilebilli3@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-elvinhaxverdiyev777@gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-@@ -25,14 +25,13 @@
-- 🔭 I’m currently working on Django projects and honing my Python skills  
-- 🌱 Learning REST APIs, Docker, and deploying web apps  
-- 💬 Ask me about Python, Django, or backend development  
-- 📫 How to reach me: <a href="mailto:ebilebilli3@gmail.com">ebilebilli3@gmail.com</a>
 
-- 📫 How to reach me: <a href="mailto:elvinhaxverdiyev777@gmail.com">elvinhaxverdiyev777@gmail.com
 ---
 
-## Projects
+### 🚀 Tech Stack
 
-- [My Django Blog](https://github.com/ebilebilli/django-blog) — Simple blog project with Django  
-- [Todo API](https://github.com/ebilebilli/todo-api) — RESTful API with Django Rest Framework  
-- [My Django Blog](https://github.com/elvinhaxverdiyev/django-blog) — Simple blog project with Django  
-- [Todo API](https://github.com/elvinhaxverdiyev/todo-api) — RESTful API with Django Rest Framework  
+- **Languages**: Python, JavaScript (basic)
+- **Frameworks**: Django, DRF, Celery
+- **Databases**: PostgreSQL, SQLite
+- **Message Broker**: Kafka, Redis
+- **DevOps**: Docker, Docker Compose, GitHub Actions
+- **Cloud**: AWS EC2, S3
+- **Others**: Swagger, JWT, API Gateway, Elasticsearch
+
+---
+
+### 🛠️ What I'm Working On
+
+- 🔭 Building real-world Django microservices projects  
+- ⚙️ Kafka-based messaging and async task systems  
+- 🌍 Deploying services on AWS with Docker & Nginx  
+- 🔒 Implementing secure JWT-authenticated APIs  
+- 📡 Real-time notifications via Email, Telegram, SMS  
+
+---
+
+### 📦 Projects
+
+- [📸 Instagram Clone](https://github.com/elvinhaxverdiyev/instagram-clone)  
+  Full-featured Instagram backend using Django, DRF, JWT, Redis, Celery, AWS S3.
+
+- [🛒 E-Commerce Microservices Platform](https://github.com/elvinhaxverdiyev/ecommerce-platform)  
+  Kafka + Django-based e-commerce platform with fully separated microservices.
+
+- [📨 Notification Service](https://github.com/elvinhaxverdiyev/notification-service)  
+  Sends multi-channel notifications (Email, Telegram, SMS) based on user preferences.
+
+- [📝 Django Blog](https://github.com/elvinhaxverdiyev/django-blog)  
+  Simple blog app built with Django + authentication system.
+
+- [✅ Todo API](https://github.com/elvinhaxverdiyev/todo-api)  
+  CRUD-based RESTful API using Django Rest Framework.
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: [elvinhaxverdiyev777@gmail.com](mailto:elvinhaxverdiyev777@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/elvinhaxverdiyev](https://www.linkedin.com/in/elvinhaxverdiyev)  
+- **GitHub**: [github.com/elvinhaxverdiyev](https://github.com/elvinhaxverdiyev)
+
+---
+
+> 🧠 Always learning, always building!
+
